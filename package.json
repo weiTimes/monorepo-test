@@ -9,7 +9,8 @@
     "build": "lerna exec --parallel -- babel --root-mode upward src -d lib --ignore **/*.story.js,**/*.spec.js",
     "bootstrap": "lerna bootstrap --use-workspaces",
     "coverage": "jest --coverage",
-    "unit": "jest"
+    "unit": "jest",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
@@ -23,6 +24,7 @@
     "babel-jest": "^27.3.1",
     "babel-loader": "^8.2.3",
     "babel-plugin-styled-components": "^2.0.1",
+    "husky": "^7.0.4",
     "jest": "^27.3.1",
     "jest-haste-map": "^27.3.1",
     "jest-resolve": "^27.3.1",
