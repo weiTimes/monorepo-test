@@ -12,7 +12,7 @@
     "unit": "jest",
     "prepare": "husky install",
     "commit": "git-cz",
-    "version": "lerna version --conventional-commits"
+    "version": "lerna version"
   },
   "config": {
     "commitizen": {
