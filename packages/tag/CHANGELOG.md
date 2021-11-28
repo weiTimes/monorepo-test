@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/weiTimes/monorepo-test/compare/tag@1.0.1...tag@1.5.0) (2021-11-28)
+
+
+### Bug Fixes
+
+* 变更 tag 版本号 ([fa2eea7](https://github.com/weiTimes/monorepo-test/commit/fa2eea7a2a5ef27965d91328162bda7160852e2e))
+* changelog ([bdba901](https://github.com/weiTimes/monorepo-test/commit/bdba90144b1cfc60dccaaf393644c8b16af053c6))
+* tag ([3cba449](https://github.com/weiTimes/monorepo-test/commit/3cba449000f0efa12e46140a3ba4f00b7c7cff6a))
+* xxx ([560fd3e](https://github.com/weiTimes/monorepo-test/commit/560fd3e3b176b232a9581abbd1e566ded821e46d))
+
+
+### Features
+
+* edit tag font-size ([af901a9](https://github.com/weiTimes/monorepo-test/commit/af901a9e3f08e15c711704d3fdded58eacae259c))
+
+
+
+
+
 # [1.4.0](https://github.com/weiTimes/monorepo-test/compare/tag@1.0.1...tag@1.4.0) (2021-11-28)
 
 
