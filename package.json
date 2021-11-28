@@ -12,7 +12,9 @@
     "clean": "yarn lerna clean -y && yarn lerna bootstrap",
     "unit": "jest",
     "prepare": "husky install",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "release": "cross-env HUSKY_BYPASS=true lerna publish",
+    "version": "cross-env HUSKY_BYPASS=true lerna version"
   },
   "config": {
     "commitizen": {
@@ -34,6 +36,7 @@
     "babel-loader": "^8.2.3",
     "babel-plugin-styled-components": "^2.0.1",
     "commitizen": "^4.2.4",
+    "cross-env": "^7.0.3",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^7.0.4",
     "jest": "^27.3.1",

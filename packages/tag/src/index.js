@@ -8,7 +8,7 @@ const Tag = styled.button`
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 18px;
+  font-size: 20px;
 `;
 
 export default Tag;
