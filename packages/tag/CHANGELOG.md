@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.7.4](https://github.com/weiTimes/monorepo-test/compare/tag@1.7.3...tag@1.7.4) (2021-11-28)
+
+
+### Bug Fixes
+
+* 2- ([ea06f31](https://github.com/weiTimes/monorepo-test/commit/ea06f3102b07316fa00f03cc8b42a9bc359bdfec))
+
+
+
+
+
 # [1.6.0](https://github.com/weiTimes/monorepo-test/compare/tag@1.0.1...tag@1.6.0) (2021-11-28)
 
 
