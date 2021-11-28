@@ -12,6 +12,11 @@
     "unit": "jest",
     "prepare": "husky install"
   },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.0",
@@ -26,6 +31,8 @@
     "babel-jest": "^27.3.1",
     "babel-loader": "^8.2.3",
     "babel-plugin-styled-components": "^2.0.1",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
     "husky": "^7.0.4",
     "jest": "^27.3.1",
     "jest-haste-map": "^27.3.1",
