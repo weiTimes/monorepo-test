@@ -9,6 +9,7 @@
     "build": "lerna exec --parallel -- babel --root-mode upward src -d lib --ignore **/*.story.js,**/*.spec.js",
     "bootstrap": "lerna bootstrap --use-workspaces",
     "coverage": "jest --coverage",
+    "clean": "yarn lerna clean -y && yarn lerna bootstrap",
     "unit": "jest",
     "prepare": "husky install",
     "commit": "git-cz",
