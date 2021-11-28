@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.8.0](https://github.com/weiTimes/monorepo-test/compare/tag@1.7.4...tag@1.8.0) (2021-11-28)
+
+
+### Features
+
+* font-size 20 ([555fefd](https://github.com/weiTimes/monorepo-test/commit/555fefd4447a92da924cdd2d53e053f98b694321))
+
+
+
+
+
 ## [1.7.4](https://github.com/weiTimes/monorepo-test/compare/tag@1.7.3...tag@1.7.4) (2021-11-28)
 
 
