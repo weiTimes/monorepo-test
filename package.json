@@ -12,8 +12,7 @@
     "clean": "yarn lerna clean -y && yarn lerna bootstrap",
     "unit": "jest",
     "prepare": "husky install",
-    "commit": "git-cz",
-    "version": "lerna version"
+    "commit": "git-cz"
   },
   "config": {
     "commitizen": {
