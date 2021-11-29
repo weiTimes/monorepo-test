@@ -13,8 +13,7 @@
     "unit": "jest",
     "prepare": "husky install",
     "commit": "git-cz",
-    "release": "cross-env HUSKY_BYPASS=true lerna publish",
-    "version": "cross-env HUSKY_BYPASS=true lerna version"
+    "release": "cross-env HUSKY_BYPASS=true lerna publish"
   },
   "config": {
     "commitizen": {
