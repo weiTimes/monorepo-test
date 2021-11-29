@@ -6,8 +6,7 @@
   "version": "independent",
   "command": {
     "publish": {
-      "conventionalCommits": true,
-      "yes": true
+      "allowBranch": ["master"]
     }
   }
 }
