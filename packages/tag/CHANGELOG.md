@@ -3,6 +3,42 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.12.0](https://github.com/weiTimes/monorepo-test/compare/tag@1.7.4...tag@1.12.0) (2021-11-29)
+
+
+### Bug Fixes
+
+* xxxxxx ([3bcc7a3](https://github.com/weiTimes/monorepo-test/commit/3bcc7a356fa84de5a27053773aea8a35cf09c0d5))
+
+
+### Features
+
+* font-size 20 ([555fefd](https://github.com/weiTimes/monorepo-test/commit/555fefd4447a92da924cdd2d53e053f98b694321))
+* xaa ([d6ca261](https://github.com/weiTimes/monorepo-test/commit/d6ca261151c152ee2674a68a60edabcb36443f46))
+* xaa222 ([c915551](https://github.com/weiTimes/monorepo-test/commit/c915551c60bbc3b871e4d31595cce0338939bf6e))
+
+
+
+
+
+# [1.11.0](https://github.com/weiTimes/monorepo-test/compare/tag@1.7.4...tag@1.11.0) (2021-11-29)
+
+
+### Bug Fixes
+
+* xxxxxx ([3bcc7a3](https://github.com/weiTimes/monorepo-test/commit/3bcc7a356fa84de5a27053773aea8a35cf09c0d5))
+
+
+### Features
+
+* font-size 20 ([555fefd](https://github.com/weiTimes/monorepo-test/commit/555fefd4447a92da924cdd2d53e053f98b694321))
+* xaa ([d6ca261](https://github.com/weiTimes/monorepo-test/commit/d6ca261151c152ee2674a68a60edabcb36443f46))
+* xaa222 ([c915551](https://github.com/weiTimes/monorepo-test/commit/c915551c60bbc3b871e4d31595cce0338939bf6e))
+
+
+
+
+
 # [1.10.0](https://github.com/weiTimes/monorepo-test/compare/tag@1.7.4...tag@1.10.0) (2021-11-28)
 
 

@@ -4,7 +4,11 @@
   "useWorkspaces": true,
   "packages": ["packages/*"],
   "version": "independent",
+  "changelogPreset": "angular",
   "command": {
+    "version": {
+      "allowBranch": ["master", "main", "feature/*"]
+    },
     "publish": {
       "allowBranch": ["master"]
     }
