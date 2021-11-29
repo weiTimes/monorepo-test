@@ -7,10 +7,12 @@
   "changelogPreset": "angular",
   "command": {
     "version": {
-      "allowBranch": ["master", "main", "feature/*"]
+      "allowBranch": ["master", "main", "feature/*"],
+      "message": "chore(release): publish %s"
     },
     "publish": {
-      "allowBranch": ["master"]
+      "allowBranch": ["master"],
+      "message": "chore(release): publish %s"
     }
   }
 }
